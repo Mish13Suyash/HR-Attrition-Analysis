@@ -15,6 +15,6 @@ It takes 52 days on average to fill a position
 
 ### Steps to run the code: 
 
-You can get the dataset from Input.
+I have provided with the CSV dataset, HR-Employee-Attrition.
 Run the code as it is, just replace the file path with the location, where your downloaded dataset is stored.
 Note that the requirements of Python, Numpy, Pandas and other necessary libraries are satisfied by your system and are updated
